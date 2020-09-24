@@ -1,0 +1,11 @@
+For our classification problem, we will consider the following five brick pattern classes:
+
+Class 0 - Other [Images that are NOT of brick patterns.]
+
+Class 1 - Flemish Stretch Bond
+
+Class 2 - English Bond
+
+Class 3 - Stretcher Bond
+
+Class 4 - Other Brick Patterns [Images of brick patterns that are NOT one of the three above.]
